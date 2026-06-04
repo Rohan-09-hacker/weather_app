@@ -2,7 +2,7 @@ import requests
 import geocoder
 
 # Replace this with your actual OpenWeatherMap API key
-API_KEY = "f8c1bd24ee98a71d811c64cc27e0ad7e"
+API_KEY = "ADD_YOUR_API_KEY"
 
 def get_user_location():
     """Detects the user's current city based on their IP address."""
